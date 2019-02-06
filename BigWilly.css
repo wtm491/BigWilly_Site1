@@ -1,0 +1,90 @@
+.header {
+  text-align: center;
+  font-size: 40px;
+  color: red;
+}
+
+.h1-head {
+  border: 5px solid blue;
+  background-color: black
+}
+
+body {
+  /* background-color: #E6E6FA; */
+  background-image: url(WTM_0255.jpg);
+  background-size: cover;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-item {
+  text-decoration: none;
+}
+
+.navbar {
+  border: 5px solid blue;
+  background-color: black;
+  margin: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.main-container {
+  border: 5px solid blue;
+  margin: 15px;
+  padding: 3px;
+  text-align: center;
+  display: flex;
+  height: 75vh;
+}
+
+.My-background {
+  border: 5px solid blue;
+  margin: 25px;
+  padding: 5px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.Who-I-am {
+  border: 5px solid blue;
+  margin: 25px;
+  padding: 5px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.My-goals {
+  border: 5px solid blue;
+  margin: 25px;
+  padding: 5px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.footer-info {
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  color: white; 
+  }
+
+.foot {
+  border: 5px solid blue;
+  background-color: black;
+  margin: 15px;
+}
